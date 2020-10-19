@@ -1,0 +1,23 @@
+carlos presentó vídeos sobre como funciona la api
+
+la consulta se realiza por medio de un código en python que genera un archivo html, el cual muestra de manera gráfica el tiempo y la ruta
+calculada para el ejercicio, no se puede optener los valores numéricos sin pagar la api.
+La api de matris de distancias no retorna el tiempo, mas la api de direcciones si retorna el tiempo.
+
+
+
+Problema: la api no retorna los tiempos entre nodos.
+Solución propuesta: comprar el tiempo gratuito que ofrece la api.
+
+k-means está casi terminado
+ruta más corta: hace falta el retorno de las apis para poder generar el grafo direccionado para el calculo de la ruta más corta
+
+Base de datos: se plantea la base de datos con base a direccioones pero no está guardado en ningun archivo, como alternativa
+se busca iniciar con generación aleatoria de coordenadas y verificar con la api si las coordenadas están en bogotá.
+La base de datos va a guardarse como .json
+
+
+
+algoritmo ruta más corta va a funcionar mientras tanto con coordenadas aleatorias y no dirigido
+k-means queda funcionando para coordenadas aleatorias
+Base de datos va a funcionar para distancia única pero va a tener un espacio reservado para grafo dirigido
