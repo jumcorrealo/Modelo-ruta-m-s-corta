@@ -21,3 +21,8 @@ La base de datos va a guardarse como .json
 algoritmo ruta más corta va a funcionar mientras tanto con coordenadas aleatorias y no dirigido
 k-means queda funcionando para coordenadas aleatorias
 Base de datos va a funcionar para distancia única pero va a tener un espacio reservado para grafo dirigido
+
+
+
+Lunes 09 de Noviembre: "Segunda entrega del proyecto"
+Miercoles 11 de Noviembre: Socialización del proyecto
